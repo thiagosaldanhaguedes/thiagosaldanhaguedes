@@ -1,11 +1,6 @@
-### Hi there 👋
+:hammer: I’m currently working on @Consumer<br>
+:computer: I’m currently learning JavaScript, React, C#, Flutter...<br>
+:man_student: Fatec Rio Preto - Informática p/ Negócios<br>
+:school: Studying on @Rocketseat<br>
+:house_with_garden: Living in São José do Rio Preto-SP
 
-<!--
-**thiagosaldanhaguedes/thiagosaldanhaguedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on @Consumer
-- 🌱 I’m currently learning JavaScript, React, C#, Flutter...
-- 👯 Fatec Rio Preto - Informática p/ Negócios
-- 🤔 Studying on @Rocketseat
